@@ -425,7 +425,7 @@
 
     <!-- Footer -->
     <footer class="footer">
-        &copy; v1.0.1 - Developed By Your Name
+        &copy; v1.0.1 - Developed By Abraão Azevedo
     </footer>
 
     <script>

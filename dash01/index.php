@@ -218,7 +218,7 @@
     </div>
     
     <footer>
-        <p>&copy; v1.0.1 - Developed By Your Name</p>
+        <p>&copy; v1.0.1 - Developed By Abraão Azevedo</p>
     </footer>
 
     <script>
